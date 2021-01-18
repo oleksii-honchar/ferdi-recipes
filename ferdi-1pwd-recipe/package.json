@@ -1,0 +1,14 @@
+{
+  "id": "1password",
+  "name": "1Password",
+  "version": "1.0.0",
+  "description": "1Password app",
+  "main": "index.js",
+  "author": "Oleksii Honchar <tuiteraz@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://my.1password.com/",
+    "hasDirectMessages": false,
+    "hasNotificationSound": false
+  }
+}

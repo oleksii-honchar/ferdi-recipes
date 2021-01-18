@@ -1,0 +1,14 @@
+{
+  "id": "ringcentral",
+  "name": "RingCentral",
+  "version": "1.0.0",
+  "description": "RingCentral AIO app",
+  "main": "index.js",
+  "author": "Oleksii Honchar <tuiteraz@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.ringcentral.com/",
+    "hasDirectMessages": true,
+    "hasNotificationSound": true
+  }
+}

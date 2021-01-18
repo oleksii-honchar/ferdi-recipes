@@ -1,0 +1,14 @@
+{
+  "id": "noises",
+  "name": "Noises",
+  "version": "1.0.0",
+  "description": "Noises app",
+  "main": "index.js",
+  "author": "Oleksii Honchar <tuiteraz@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://noises.online/",
+    "hasDirectMessages": false,
+    "hasNotificationSound": false
+  }
+}

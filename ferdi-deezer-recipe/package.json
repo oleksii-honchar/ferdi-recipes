@@ -1,0 +1,14 @@
+{
+  "id": "deezer",
+  "name": "Dezer",
+  "version": "1.0.0",
+  "description": "Deezer app",
+  "main": "index.js",
+  "author": "Oleksii Honchar <tuiteraz@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://deezer.com/",
+    "hasDirectMessages": false,
+    "hasNotificationSound": false
+  }
+}
